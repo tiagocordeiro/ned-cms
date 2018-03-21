@@ -1,0 +1,12 @@
+site_name: ned-cms
+site_description: Ned is an open source headless CMS built using python
+repo_url: https://github.com/jlugao/ned-cms
+site_dir: site
+copyright: Copyright &copy; 2018, <a href="https://github.com/jlugao">jlugao</a>.
+dev_addr: 0.0.0.0:8001
+
+pages:
+  - Home: 'index.md'
+  - API:
+    - Authentication: 'api/authentication.md'
+    - Users: 'api/users.md'
